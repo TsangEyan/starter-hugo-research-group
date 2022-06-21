@@ -22,9 +22,10 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: zju1.jpg
       link:
-        icon: arrow-pointer-solid
+        icon: 
+        icon_pack: 
         text: Home
         url: https://zju-lab.netlify.app
     - title: Lunch & Learn ☕️
@@ -34,14 +35,14 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: zju2.jpg
     - title: World-Class Semiconductor Lab
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: 111.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
