@@ -24,10 +24,9 @@ content:
         brightness: 0.7
         media: coders.jpg
       link:
-        icon: arrow-pointer
-        icon_pack: fab
+        icon: arrow-pointer-solid
         text: Home
-        url: ../home/
+        url: https://zju-lab.netlify.app
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
