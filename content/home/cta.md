@@ -6,7 +6,7 @@ weight: 40
 title: Contact Us
 subtitle:
 
-contene:
+content:
   email: 【实验室联系人邮件】
   phone: 【实验室号码】
   address:
@@ -20,7 +20,7 @@ contene:
     latitude: '30.303638'   # 纬度
     longitude: '120.086634'  # 经度
   directions: 【办公室具体位置精确到门牌号】
-  
+
   autolink: true
 design:
   columns: '1'
