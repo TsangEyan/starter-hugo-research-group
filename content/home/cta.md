@@ -20,6 +20,8 @@ contene:
     latitude: '30.303638'   # 纬度
     longitude: '120.086634'  # 经度
   directions: 【办公室具体位置精确到门牌号】
+  
+  autolink: true
 design:
   columns: '1'
 ---
