@@ -15,23 +15,24 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: 【实验室联系人邮件】
+  phone: 【实验室号码】
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 【实验室街道】
+    city: 浙江
+    region: 杭州
+    postcode: 【详细地址】
+    country: 中国
+    country_code: ZH-CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '37.4275'   # 纬度
+    longitude: '-122.1697'  # 经度
+  directions: 【办公室具体位置精确到门牌号】
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - '【Monday 10:00 to 13:00】'
+    - '【Wednesday 09:00 to 10:00】'
+    - '【填写工作时间】'
+  # appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
