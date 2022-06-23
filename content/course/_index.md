@@ -1,0 +1,5 @@
+---
+title: Courses
+type: page
+
+---

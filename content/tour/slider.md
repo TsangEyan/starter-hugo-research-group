@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: zju1.jpg
+        media: zju2.jpg
       link:
         icon: 
         icon_pack: 
