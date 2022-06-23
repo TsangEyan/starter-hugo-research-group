@@ -21,7 +21,7 @@ main:
   - name: News
     url: post
     weight: 30
-  - name: People
+  - name: Members
     url: people
     weight: 40
   - name: Events

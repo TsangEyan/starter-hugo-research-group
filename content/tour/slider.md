@@ -28,7 +28,7 @@ content:
         icon_pack: 
         text: Home
         url: https://zju-lab.netlify.app
-    - title: Lunch & Learn ☕️
+    - title: Lunch & Learn
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
@@ -36,7 +36,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: zju2.jpg
-    - title: World-Class Semiconductor Lab
+    - title: Lab
       align: right
       background:
         position: center
