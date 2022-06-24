@@ -1,6 +1,6 @@
 ---
-publication_types:
-  - "3"
+publication_types: 
+  - ['3']
 authors:
   - 陈柳青
 publication_short: ""
