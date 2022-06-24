@@ -1,14 +1,14 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Seeing and believing
+date: 2022-06-24
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Tech firms are betting that “extended reality” glasses could be the next big product—and perhaps the next big platform
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+With eyes like saucers, nine-year-old Ralph Miles slowly removes his Quest 2 headset. “It was like being in another galaxy!” he exclaims. He has just spent ten minutes blasting alien robotswith deafening laser cannons—all the while seated silently in the home-electronics section of a London department store.Sales assistants bustle around, advertising
+the gear to take home today. “That would be sick!” enthuses Ralph. “Don’t get him started,” warns his dad.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Children are no longer the only ones excited about “extended reality”, a category which includes both fully immersive virtual reality (vr) and augmented reality (ar), in which computer imagery is superimposed onto users’ view of the world around them. Nearly every big technology firm is rushing to develop a vr or ar headset, convinced that what has long been a niche market may be on the brink of becoming something much larger.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
