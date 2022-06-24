@@ -1,7 +1,7 @@
 ---
 title: Graduate Courses
 linkTitle: Graduate Courses
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: 简介
 date: '2022-06-24'
 type: book
 
