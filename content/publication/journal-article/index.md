@@ -2,10 +2,8 @@
 title: 'An example journal article'
 authors:
   - 陈柳青
-  - AA
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
 date: '2022-06-23T00:00:00Z'
 doi: ''
 
