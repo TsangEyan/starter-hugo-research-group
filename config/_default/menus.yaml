@@ -4,11 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Projects
+    url: home
     weight: 10
-  - name: Courses
+    
+  - name: Talks
+    url: home
     weight: 20
+
+  - name: Courses
+    weight: 30
     identifier: courses
   - name: Undergraduate Courses
     PageRef: course/undergraduate-courses/_index.md
@@ -18,18 +23,14 @@ main:
     PageRef: course/graduate-courses/_index.md
     weight: 20
     parent: courses
-  - name: News
-    url: post
-    weight: 30
-  - name: Members
-    url: people
-    weight: 40
-  - name: Events
-    url: event
-    weight: 50
+
   - name: Publications
     url: publication
-    weight: 60
-  - name: Contact
-    url: contact
-    weight: 70
+    weight: 40
+  
+  - name: Members
+    url: people
+    weight: 50
+  
+  
+  
