@@ -18,4 +18,4 @@ design:
 
 <br>
 
-实验室介绍
+【实验室介绍blablabla】

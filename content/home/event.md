@@ -4,7 +4,7 @@ headless: true
 weight: 30
 
 title: Event
-subtitle: my event
+subtitle: 
 
 content:
   # Page type to display. E.g. post, event, publication...

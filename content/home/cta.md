@@ -23,11 +23,12 @@ content:
 
   autolink: true
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 ## 研究生
-
+  blablabla
 ## 实习生
+  blablabla
 
 
