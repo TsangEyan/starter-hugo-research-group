@@ -6,6 +6,8 @@ date: 2022-07-02
 ---
 奥利与奥斯卡的日常
 
+<!--more-->
+
 {{< video src="my_video.mp4" controls="yes" >}}
 
 awslawslawslawslawsl
