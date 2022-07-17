@@ -6,11 +6,10 @@ date: '2022-06-24'
 type: book
 
 ---
-
-{{< toc hide_on="xl" >}}
-
 ## What you will learn
 
-## Courses in this program
+- course 1
+- course 2
+- course 3
 
-{{< list_children >}}
+## Courses in this program
