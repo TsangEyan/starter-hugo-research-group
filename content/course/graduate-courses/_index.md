@@ -2,15 +2,15 @@
 title: Graduate Courses
 linkTitle: Graduate Courses
 summary: Graduate Courses Introduction
-date: '2022-06-24'
+date: '2022-07-17'
 type: book
 
 ---
 
-{{< toc hide_on="xl" >}}
-
 ## What you will learn
 
-## Courses in this program
+- course 1
+- course 2
+- course 3
 
-{{< list_children >}}
+## Courses in this program
