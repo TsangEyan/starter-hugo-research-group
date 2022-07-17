@@ -19,3 +19,5 @@ design:
 <br>
 
 【实验室介绍blablabla】
+
+{{% cta cta_link="https://tsangeyan.github.io/TED3Lab-zh.github.io" cta_text="See more" %}}
