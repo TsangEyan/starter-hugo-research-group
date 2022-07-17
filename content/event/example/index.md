@@ -60,7 +60,7 @@ projects:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/). -->
 
-有意保研的同学欢迎联系浙江大学 智能设计实验室 [陈柳青老师]（https://person.zju.edu.cn/chenlq）参加暑期实习，研究方向包括智能UI、创意设计、VR/AR/XR、交互设计与用户体验等，可在阿里巴巴兼职实习、去往帝国理工交流访学，招收对象为计算机类、设计类相关专业学生，有意向者请投简历联系陈柳青老师 chenlq@zju.edu.cn
+有意保研的同学欢迎联系浙江大学 智能设计实验室 [_陈柳青老师_](https://person.zju.edu.cn/chenlq)参加暑期实习，研究方向包括智能UI、创意设计、VR/AR/XR、交互设计与用户体验等，可在阿里巴巴兼职实习、去往帝国理工交流访学，招收对象为计算机类、设计类相关专业学生，有意向者请投简历联系陈柳青老师 chenlq@zju.edu.cn
 - 直博生可以直接报学院的夏令营计划，截止7.1； 硕士直接参加实验室的实习
 - 夏令营与实习的对接与进度检查:
   - 进度跟进
