@@ -1,7 +1,7 @@
 ---
 title: Graduate Courses
 linkTitle: Graduate Courses
-summary: 简介
+summary: Graduate Courses Introduction
 date: '2022-06-24'
 type: book
 

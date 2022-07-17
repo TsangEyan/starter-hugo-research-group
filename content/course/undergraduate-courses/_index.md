@@ -1,7 +1,7 @@
 ---
 title: Undergraduate Courses
 linkTitle: Undergraduate Courses
-summary: 简介
+summary: Undergraduate Courses Introduction
 date: '2022-06-24'
 type: book
 

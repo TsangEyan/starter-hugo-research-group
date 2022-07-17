@@ -1,8 +1,6 @@
 ---
 title: Courses
-type: page
-
-view: compact
+type: book
 
 banner:
   caption: ''
