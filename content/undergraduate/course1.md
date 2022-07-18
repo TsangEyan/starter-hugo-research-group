@@ -5,7 +5,6 @@ linktitle: course1
 weight: 1
 date: '2022-07-10T00:00:00Z'
 type: book 
-media: 111.jpg
 ---
 
 Build a foundation in Python.(这里是课程的概述，具体内容或者作品展示放在该网页里)

@@ -12,7 +12,7 @@ Explore our courses below and expand your knowledge!
 
 ## Graduate Courses
 ### What you will learn
-
+(列出课程名，具体的教学大纲、课程作业可在相应网页里）
 - course 1
 - course 2
 - course 3
