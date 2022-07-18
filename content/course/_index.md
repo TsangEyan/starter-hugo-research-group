@@ -1,6 +1,6 @@
 ---
 title: Courses
-type: book
+type: page
 
 banner:
   caption: ''
@@ -18,7 +18,7 @@ Explore our courses below and expand your knowledge!
 - course 3
 
 ### Learn more
-{{% cta cta_link="graduate" cta_text="Learn more" %}}
+{{% cta cta_link="./graduate" cta_text="Learn more" %}}
 
 
 ## Undergraduate Courses
@@ -29,4 +29,4 @@ Explore our courses below and expand your knowledge!
 - course 3
 
 ### Learn more
-{{< cta cta_link="undergraduate" cta_text="Learn more" >}}
+{{< cta cta_link="./undergraduate" cta_text="Learn more" >}}
