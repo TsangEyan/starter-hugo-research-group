@@ -11,6 +11,6 @@ type: book # Do not modify.
 toc: false
 ---
 
-{{< figure src="featured.jpg" >}}  
+{{< figure src="featured.png" >}}  
 
 {{< list_children >}}

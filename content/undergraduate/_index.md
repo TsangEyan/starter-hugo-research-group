@@ -10,6 +10,6 @@ date: '2022-07-10T00:00:00Z'
 type: book # Do not modify.
 toc: false
 ---
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.png" >}}  
 
 {{< list_children >}}
