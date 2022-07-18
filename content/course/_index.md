@@ -29,4 +29,4 @@ Explore our courses below and expand your knowledge!
 - course 3
 
 ### Learn more
-{{< cta cta_link="undergraduate" cta_text="Learn more" >}}
+{{< cta cta_link="../undergraduate" cta_text="Learn more" >}}
