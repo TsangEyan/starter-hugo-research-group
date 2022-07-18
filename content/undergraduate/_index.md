@@ -8,7 +8,6 @@ summary: undergraduate course you will learn
 # Page metadata.
 date: '2022-07-10T00:00:00Z'
 type: book # Do not modify.
-toc: false
 ---
 {{< figure src="featured.png" >}}  
 
@@ -19,6 +18,10 @@ toc: false
 - 技能1技能1技能1技能1{{<hl>}}技能1技能1{{</hl>}}技能1技能1技能1技能1技能1技能1
 - 技能2技能2技能2技能2{{<hl>}}技能2技能2{{</hl>}}技能2技能2技能2技能2技能2技能2
 - 技能3技能3技能3技能3
+
+## Program overview
+
+The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
 
 ## Courses in this program
 
