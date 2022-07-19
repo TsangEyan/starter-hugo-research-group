@@ -16,7 +16,7 @@ main:
     url: talk
     weight: 30
 
-  - name: Courses
+  - name: Teaching
     url: course
     weight: 40
     identifier: courses
