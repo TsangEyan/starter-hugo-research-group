@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 
 # Position of this section on the page
-weight: 40
+weight: 20
 
 content:
   # Filter content to display
@@ -28,6 +28,11 @@ content:
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: false
+
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
   
 design:
   # Choose a listing view
@@ -35,4 +40,4 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 ---
-{{< figure src="featured.png" >}} 
+
