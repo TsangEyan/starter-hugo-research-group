@@ -1,12 +1,4 @@
 ---
-# # Listing view
-# view: compact
-
-# # Optional banner image (relative to `assets/media/` folder).
-# banner:
-#   caption: ''
-#   image: ''
-
 widget: portfolio
 headless: true  # This file represents a page section.
 
