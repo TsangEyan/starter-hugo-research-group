@@ -15,7 +15,7 @@ title: Projects
 subtitle: ''
 
 # Position of this section on the page
-weight: 20
+weight: 1
 
 content:
   # Filter content to display
@@ -46,4 +46,4 @@ design:
   columns: '2'
 ---
 
-Check out my recent blog posts below!
+Check out projects below!
