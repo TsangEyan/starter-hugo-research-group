@@ -13,7 +13,7 @@ headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 
 # Position of this section on the page
-weight: 20
+weight: 30
 
 content:
   # Filter content to display
@@ -44,4 +44,3 @@ design:
   columns: '2'
 ---
 
-Check out projects below!
