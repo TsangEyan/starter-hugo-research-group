@@ -1,6 +1,6 @@
 ---
-title: 拍摄小人国
-subtitle: 视频会议的例子
+title: 项目例子
+subtitle: 项目可添加代码、公式、流程图、表格、折线图
 authors:
   - 陈柳青
   - Robert Ford
@@ -69,6 +69,7 @@ Save your Plotly JSON in your page folder, for example `line-chart.json`, and th
 Demo:
 
 {{< chart data="line-chart" >}}
+You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
 
 ### Diagrams
 
