@@ -7,7 +7,7 @@ title: Project
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 70
 
 content:
   # Page type to display. E.g. project.
@@ -24,9 +24,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Extended Reality
+    - name: XR
       tag: XR
-    - name: Computer Vision
+    - name: CV
       tag: CV
     - name: NLP
       tag: NLP

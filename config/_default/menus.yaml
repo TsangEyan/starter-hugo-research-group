@@ -29,9 +29,6 @@ main:
     url: people
     weight: 60
   
-  - name: test
-    url: test
-    weight: 70
   
   
   

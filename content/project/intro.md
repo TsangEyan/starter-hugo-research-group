@@ -7,7 +7,7 @@ headless: true
 
 # Order that this section will appear in.
 weight: 20
-title: Project
+title: Project2
 #design:
 #  background:
 #    color: '#090a0b'
