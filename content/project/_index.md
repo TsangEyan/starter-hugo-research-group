@@ -11,7 +11,7 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Projects111
+title: Projects
 subtitle: ''
 
 # Position of this section on the page
@@ -38,6 +38,7 @@ content:
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: false
+  
 design:
   # Choose a listing view
   view: compact
