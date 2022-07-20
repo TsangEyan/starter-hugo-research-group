@@ -15,7 +15,7 @@ title: Projects
 subtitle: ''
 
 # Position of this section on the page
-weight: 1
+weight: 20
 
 content:
   # Filter content to display
@@ -31,7 +31,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 10
+  count: 0
   # Choose how many pages you would like to offset by
   # Useful if you wish to show the first item in the Featured widget
   offset: 0
