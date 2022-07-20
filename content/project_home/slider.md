@@ -1,6 +1,6 @@
 ---
 widget: slider
-weight: 1
+weight: 10
 active: true
 headless: true
 
@@ -27,7 +27,7 @@ content:
         icon: 
         icon_pack: 
         text: Home
-        url: https://zju-lab.netlify.app
+        url: https://main--d3-lab.netlify.app/
     - title: Lunch & Learn
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
@@ -47,5 +47,5 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Join Us
-        url: ../contact/
+        url: https://main--d3-lab.netlify.app/
 ---

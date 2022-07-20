@@ -1,26 +1,14 @@
 ---
-# # Listing view
-# view: compact
-
-# # Optional banner image (relative to `assets/media/` folder).
-# banner:
-#   caption: ''
-#   image: ''
-
 widget: pages
-headless: true  # This file represents a page section.
+headless: true
+weight: 20
 
-# ... Put Your Section Options Here (title etc.) ...
-title: Projects
-subtitle: ''
-
-# Position of this section on the page
-weight: 2
+title: projects
+subtitle:
 
 content:
-  # Filter content to display
+  # Filter on criteria
   filters:
-    # The folders to display content from
     folders:
       - project
     tag: ''
@@ -31,17 +19,14 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 10
+  count: 2
   # Choose how many pages you would like to offset by
-  # Useful if you wish to show the first item in the Featured widget
   offset: 0
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
-  
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
 design:
-  # Choose a listing view
+  # Choose a view for the listings:
   view: compact
-  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
