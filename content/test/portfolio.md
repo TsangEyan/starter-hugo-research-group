@@ -1,6 +1,8 @@
 ---
 widget: portfolio
 
+title: Project
+
 # This file represents a page section.
 headless: true
 
