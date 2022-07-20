@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: slider
 weight: 10
 active: true
@@ -48,4 +48,4 @@ content:
         icon_pack: fas
         text: Join Us
         url: https://main--d3-lab.netlify.app/
----
+--- -->
