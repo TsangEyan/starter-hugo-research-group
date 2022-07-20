@@ -13,6 +13,8 @@ content:
   count: 2
   # Filter on criteria
   filters:
+    folders:
+      - event
     author: ''
     category: ''
     tag: ''
@@ -32,5 +34,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  columns: '2'
 
 ---
