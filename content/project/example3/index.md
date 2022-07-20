@@ -5,6 +5,7 @@ date: 2022-07-02
 
 tags:
   - NLP
+  - CV
 
 url_video: 'https://www.bilibili.com/video/BV1uZ4y1y7PV?share_source=copy_web'
 ---
