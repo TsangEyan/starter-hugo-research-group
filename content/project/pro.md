@@ -11,8 +11,6 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Projects
-subtitle: ''
 
 # Position of this section on the page
 weight: 20
