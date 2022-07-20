@@ -13,6 +13,9 @@ date: 2022-07-20
 math: true
 highlight: true
 
+tags:
+  -XR
+  
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:

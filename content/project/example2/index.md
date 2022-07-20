@@ -1,7 +1,10 @@
 ---
-title: 拍摄小人国
-subtitle: 视频会议的例子
+title: 项目例子2
+subtitle: 项目可添加代码、公式、流程图、表格、折线图
 date: 2022-07-02
+
+tags:
+  -CV
 
 url_video: 'https://www.bilibili.com/video/BV1uZ4y1y7PV?share_source=copy_web'
 ---
