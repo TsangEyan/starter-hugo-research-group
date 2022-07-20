@@ -1,9 +1,39 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
+widget: pages
+headless: true
+weight: 30
 
 title: Project
+subtitle: 
 
-# Homepage is headless, other widget pages are not.
-headless: true
+content:
+  # Page type to display. E.g. post, event, publication...
+  page_type: project
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 2
+  # Filter on criteria
+  filters:
+    folders:
+      - project
+    author: ''
+    category: ''
+    tag: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ''
+  # Choose how many pages you would like to offset by
+  count: 0
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
+  columns: '1'
 ---

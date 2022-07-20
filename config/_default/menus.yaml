@@ -29,6 +29,10 @@ main:
     url: people
     weight: 60
 
+  - name: test
+    url: project_home
+    weight: 70
+
   
   
   
