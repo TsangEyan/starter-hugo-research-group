@@ -13,7 +13,7 @@ headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 
 # Position of this section on the page
-weight: 30
+weight: 40
 
 content:
   # Filter content to display
