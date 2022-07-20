@@ -6,8 +6,8 @@ widget: about.avatar
 headless: true
 
 # Order that this section will appear in.
-weight: 30
-title: Project1
+weight: 20
+
 #design:
 #  background:
 #    color: '#090a0b'
