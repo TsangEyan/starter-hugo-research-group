@@ -15,7 +15,7 @@ title: Projects
 subtitle: ''
 
 # Position of this section on the page
-weight: 1
+weight: 10
 
 content:
   # Filter content to display
