@@ -9,7 +9,7 @@ main:
     weight: 10
 
   - name: Projects
-    url: project_home
+    url: project
     weight: 20
 
   - name: Talks
