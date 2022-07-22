@@ -29,7 +29,7 @@ draft: false
 links:
   - name: Custom Link
     url: '#'
-url_pdf: '#'
+url_pdf: ''
 url_dataset: ''
 url_project: ''
 url_source: ''
