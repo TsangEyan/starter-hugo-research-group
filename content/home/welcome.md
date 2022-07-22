@@ -18,5 +18,5 @@ design:
 
 <br>
 
-【实验室介绍blablabla1111222】
+【实验室介绍blablabla】
 
