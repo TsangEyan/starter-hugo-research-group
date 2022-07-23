@@ -36,5 +36,8 @@ design:
   #   4 = Citation (publication only)
   view: 2
   columns: '2'
-
+  background:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    # padding: ["150px", "150px", "20px", "50px"]
 ---

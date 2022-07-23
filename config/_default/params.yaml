@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: native
-  font_size: L
+  font: Minimal
+  font_size: xl
 
 # SEO
 
@@ -106,6 +106,6 @@ extensions:
 
 # Citation style
 
-publications:
-  date_format: July 2022
-  citation_style: apa
+# publications:
+#   date_format: 'July 2022'
+#   citation_style: apa

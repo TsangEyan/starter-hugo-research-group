@@ -1,9 +1,31 @@
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
   text-align: center;
+  background-color: rgb(231, 218, 203);
+  font-size: 4.25rem;
+  margin-top: -1rem;
+  margin-bottom: 2rem;
+  line-height: 2.25;
 }
 
 // Center the CTA shortcode button
 .cta-group {
   justify-content: center;
+}
+
+#undergraduate-courses, #graduate-courses{
+  text-align: center;
+  font-size: 2.3rem;
+}
+
+.toc-inpage.d-print-none{
+  // position: absolute;
+  position: fixed;
+  // z-index: 9999;
+  float: right;
+  display:inline;
+
+  right: 0;
+  width: 300px;
+  
 }
