@@ -28,6 +28,10 @@ main:
   - name: Members
     url: people
     weight: 60
+  
+  - name: 中文
+    url: 'https://tsangeyan.github.io/TED3Lab-zh.github.io'
+    weight: 70
 
   
   
