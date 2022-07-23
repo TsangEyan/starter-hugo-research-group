@@ -33,7 +33,6 @@ gallery_item:
 优秀学生作品
 {{< gallery album="111" resize_options="420x">}}
 
-# 
 ## Graduate Courses
 
 ## 课程1
