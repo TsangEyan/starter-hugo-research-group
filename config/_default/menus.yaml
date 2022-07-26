@@ -12,6 +12,10 @@ main:
     url: project
     weight: 20
 
+  - name: Talk
+    url: talk
+    weight: 30
+    
   - name: Teaching
     url: course
     weight: 40
@@ -25,7 +29,7 @@ main:
     url: people
     weight: 60
   
-  - name: 中文
+  - name: Chinese
     url: 'https://tsangeyan.github.io/TED3Lab-zh.github.io'
     weight: 70
 
