@@ -1,7 +1,7 @@
 ---
 widget: contact
 headless: true
-weight: 50
+weight: 60
 
 title: Join us
 subtitle:

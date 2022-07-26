@@ -19,13 +19,16 @@
 }
 
 .toc-inpage.d-print-none{
-  // position: absolute;
   position: fixed;
-  // z-index: 9999;
-  float: right;
   display:inline;
-
   right: 0;
   width: 300px;
-  
+}
+
+.share-box{
+  display: none;
+}
+
+.powered-by{
+  display: none;
 }
