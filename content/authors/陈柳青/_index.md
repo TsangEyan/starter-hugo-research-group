@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: chenlq@zju.edu.cn
+    link: mailto:chenlq@zju.edu.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=WdOAe_gAAAAJ
