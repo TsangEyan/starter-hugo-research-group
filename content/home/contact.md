@@ -7,13 +7,13 @@ title: Join us
 subtitle:
 
 content:
-  email: 【实验室联系人邮件】
+  email: chenlq@zju.edu.cn
   phone: 【实验室号码】
   address: 
     street:
     city: 浙江
     region: 杭州
-    postcode: 【浙江大学紫金港校区月牙楼403
+    postcode: 浙江大学紫金港校区月牙楼403
     country: 中国
     country_code: ZH-CN
   coordinates:
