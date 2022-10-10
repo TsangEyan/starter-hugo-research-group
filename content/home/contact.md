@@ -8,26 +8,25 @@ subtitle:
 
 content:
   email: chenlq@zju.edu.cn
-  phone: 【实验室号码】
-  address: 
+  phone: ""
+  address:
     street:
-    city: 浙江
-    region: 杭州
-    postcode: 浙江大学紫金港校区月牙楼403
-    country: 中国
+    city:
+    region:
+    postcode: International Design Insitute of Zhejiang University, Hangzhou, Zhejiang Province
+    country: China
     country_code: ZH-CN
   coordinates:
-    latitude: '30.30487'   # 纬度
-    longitude: '120.08632'  # 经度
+    latitude: "30.30487" # 纬度
+    longitude: "120.08632" # 经度
 
   autolink: true
 design:
-  columns: '2'
+  columns: "2"
 ---
 
-## 研究生
-  blablabla
-## 实习生
-  blablabla
+Welcome students who are interested in pursuing a master's or doctoral degree (computer, design, etc.) to contact us. We are also recruiting students from Computer Science and Software Science。
 
+Welcome outstanding undergraduates who are interested in scientific research to do laboratory internships (usually and in summer)。
 
+We recruit postdoctoral who have obtained doctorate degrees in computer science, design or related disciplines fellows all the year round and provide competitive remuneration packages.
